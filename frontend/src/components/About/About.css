@@ -1,0 +1,32 @@
+.about-page .about-p {
+  color: black;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: var(--secondary-color);
+  border-radius: 5px;
+  margin: 0px 50px;
+  margin-bottom: 10px;
+  text-align: justify;
+}
+.about-page .about-p {
+  border: 1px solid #ddd;
+}
+.about-p .lst{
+  list-style-type: disc;
+  margin-left: 20px;
+  color: black;
+  border: none;
+}
+.about-page h2 {
+  font-family: "Poppins";
+  text-align: center;
+  font-weight: 400;
+  font-size: 28px;
+}
+.about-page h5 {
+  font-family: "Poppins";
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+}
+
