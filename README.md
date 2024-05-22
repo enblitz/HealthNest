@@ -1,4 +1,4 @@
-# HealthNest
+# HealthNest - Frontend
 
 ## 1 Change Directory to frontend
   cd frontend
