@@ -1,0 +1,16 @@
+.banner {
+  align-items: center;
+  height: 300px;
+  width: 100%;
+  color: rgb(0, 0, 0);
+  background: #eff6ff no-repeat;
+  background-size: cover !important;
+  background-position: center !important;
+  position: relative;
+}
+
+.banner p,
+.banner h2 {
+  text-align: center;
+  justify-content: center;
+}
