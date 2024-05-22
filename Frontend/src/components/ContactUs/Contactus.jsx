@@ -1,10 +1,8 @@
 import React, { useState } from 'react';
 import { Container, Row, Col } from 'reactstrap';
-
 import { FaMapLocationDot } from "react-icons/fa6";
 import { FaPhone } from "react-icons/fa";
 import { IoMail } from "react-icons/io5";
-
 import '../ContactUs/Contactus.css'
 
 

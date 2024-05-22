@@ -9,7 +9,7 @@ import Contact from './components/ContactUs/Contactus';
 import SignIn from "./components/Login/SignIn";
 import SignUp from './components/Login/SignUp';
 import Doctors from "./components/Doctor/search";
-import About from "./components/About/About"
+import About from "./components/About/About";
 
 function App() {
   return (

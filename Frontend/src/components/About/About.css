@@ -29,4 +29,14 @@
   font-weight: 400;
   font-size: 18px;
 }
-
+.about-last{
+  color: black;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: var(--secondary-color);
+  border-radius: 5px;
+  margin: 0px 50px;
+  margin-bottom: 10px;
+  text-align: justify;
+  border: 1px solid #ddd;
+}

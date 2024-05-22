@@ -19,7 +19,8 @@
   text-align: center;
   padding: 10px 100px;
   border-radius: 5px;
-  /* margin: 10px; */
+  justify-content: center;
+  align-items: center;
   background: white;
   box-shadow: 0 3px 7px rgba(0,0,0,0.1);
 }

@@ -6,30 +6,26 @@ const AboutPage = () => {
     <div className="about-page">
       <h2>Health Nest</h2>
       <h5 className='text-center'>Welcome to our Doctor Appointment System!</h5>
-      <p className='about-p'>Our showroom has been serving customers for over a decade, providing high-quality furniture for homes and offices. At our showroom, we strive to offer a wide range of furniture options to suit every taste and budget. Whether you're looking for classic designs or modern styles, we've got you covered. Our team of experienced professionals is dedicated to providing excellent customer service and helping you find the perfect furniture pieces for your space. Visit our showroom today to explore our latest collections and experience the beauty and comfort of our furniture firsthand.</p>
+      <p className='about-p'>Welcome to Healthnest , where your health and well-being are our top priorities. We are dedicated to providing exceptional medical care through a seamless and user-friendly appointment system designed to meet the diverse needs of our patients.</p>
       <p className='about-p'>What We Offer
         <p className='about-p lst'>
-          Exclusive Collections: Discover furniture that spans a range of styles and eras, each piece handpicked for its craftsmanship, beauty, and functionality. From statement-making dining tables to elegant bedroom sets, our collections are designed to cater to diverse tastes and spaces.
+        <b> Appointment Booking : </b> Easily schedule appointments with healthcare professionals through our intuitive booking system. Choose from a range of available time slots and get instant confirmation.
         </p>
         <p className='about-p lst'>
-          Sustainability at Heart: Sustainability isn't just a buzzword for us; it's woven into the fabric of our operations. We prioritize materials and processes that are kind to the earth, ensuring that our furniture not only looks good but also does good.
+        <b> Recomandation : </b> Receive personalized recommendations for doctors and healthcare services based on your medical history, preferences, and location. Our advanced algorithms ensure you find the best match for your needs.
         </p>
         <p className='about-p lst'>
-          Custom Creations: Your home is a reflection of your unique style, and we celebrate that. Wooden Craft offers bespoke furniture services, allowing you to tailor dimensions, finishes, and materials to your exact specifications. Dream it, and we'll craft it.
+        <b> Search Doctors : </b>Quickly find doctors by specialty, location, availability, and ratings. Our comprehensive database allows you to compare and select the right healthcare provider for you.
         </p>
         <p className='about-p lst'>
-          Virtual Showroom Experience: Step into our virtual showroom from the comfort of your home. Explore our collections through high-resolution imagery, detailed descriptions, and interactive online consultations. Our expert advisors are here to guide you, ensuring your furniture choice fits your space perfectly.
+        <b> DashBoard For Doctors : </b> A dedicated dashboard for doctors to manage their appointments, view patient records, and track their schedule. The dashboard provides real-time updates and notifications to keep everything organized.
         </p>
         <p className='about-p lst'>
-          Seamless Shopping Experience: With an intuitive online platform, secure payment gateways, and dedicated customer service, shopping for furniture online has never been easier or more reassuring.</p>
+        <b> Patient Management : </b>Efficiently manage patient information, medical records, and treatment plans. Our system ensures secure and easy access to patient data, enabling better healthcare delivery and coordination.</p>
       </p>
-      <p className='about-p'>
-        Our Commitment
-        <p className="aboutp lst">
-        At Wooden Craft, your satisfaction is our masterpiece. We are committed ton providing an unparalleled shopping experience, ensuring the quality of every piece, and delivering excellence right to your doorstep. Our vision extends beyond furniture—we aim to enrich lives through designs that inspire and endure.
+        <p className="about-last">
+               Thank you for choosing Health Nest. We look forward to serving you and helping you achieve better health.
         </p>
-      </p>
-
     </div>
   </>
 
