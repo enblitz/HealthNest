@@ -1,0 +1,87 @@
+.login-form,
+.signup-form {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20%;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.signup-main div {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  align-content: space-between;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.signup-main div select {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.login-form h2,
+.signup-form h2 {
+  text-align: center;
+  font-family: "Poppins";
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.login-form label,
+.signup-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.login-form input,
+.signup-form input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.login-form button,
+.signup-form button {
+  background-color: lightgrey;
+  border-radius: 5px;
+  width: 100%;
+  /* color: */
+  align-items: center ;
+  border: 1px;
+  padding: 7px;
+  font-size: 16px;
+}
+
+.mt {
+  margin-top: 80px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.password-toggle {
+  position: absolute;
+  top: 42%;
+  left: 55.4%;
+}
+
+@media only screen and (max-width: 768px) {
+  .password-toggle {
+    position: absolute;
+    top: 40.5%;
+    left: 61%;
+    /* background-color: black; */
+  }
+}
